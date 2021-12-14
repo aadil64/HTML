@@ -1,0 +1,13 @@
+.cardsMom{
+    display: flex;
+}
+.card{
+    padding: 12px;
+    margin: 12px;
+}
+.navbar{
+    color:white
+}
+.abc{
+    color: white;
+}
