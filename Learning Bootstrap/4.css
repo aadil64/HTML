@@ -1,0 +1,19 @@
+.logo{
+    width: 92px;
+    height: 69px;
+    margin-left: 30px;
+}
+.a{
+    display: inline-block;
+    border-right: solid 1px grey;
+
+}
+.btn{
+    background-color: transparent;
+}
+.btn-group{
+    
+}
+.md{
+    background-color: grey;
+}

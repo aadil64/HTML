@@ -1,0 +1,39 @@
+.maa{
+    /* justify-content: center; */
+    display: inline-block;
+    
+}
+.card{
+    display: inline-block;
+padding: 20px;
+margin: 20px;
+margin-left: 170px;
+border-top: 2px solid red;
+/* background:url(https://docs.exideindustries.com/images/line.jpg) no-repeat top right; */
+border-radius: 0;
+    background-color: #f2f2f2;
+}
+.card1{
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+    border-top: 2px solid red;
+    /* background:url(https://docs.exideindustries.com/images/line.jpg) no-repeat top right; */
+    border-radius: 0;
+        background-color: #f2f2f2;
+}
+.card2{
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+    border-top: 2px solid red;
+    /* background:url(https://docs.exideindustries.com/images/line.jpg) no-repeat top right; */
+    border-radius: 0;
+        background-color: #f2f2f2;
+}
+.d-block{
+    width: 1140px;
+    height: 320px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
